@@ -40,19 +40,19 @@ function hide() {
 
 //GoldHEN
 function GoldHEN24() {
-    ShowMSG = "Insert USB Now...Trigering Exploit!"
+    ShowMSG = "Insert USB!"
     loadmsg()
     PLfile = "GoldHEN24.bin";
     poc()
 }
 function GoldHEN224() {
-    ShowMSG = "Insert USB Now...Trigering Exploit!"
+    ShowMSG = "Insert USB!"
     loadmsg()
     PLfile = "GoldHEN224.bin";
     poc()
 }
 function GoldHEN23() {
-    ShowMSG = "Insert USB Now...Trigering Exploit!"
+    ShowMSG = "Insert USB!"
     loadmsg()
     PLfile = "GoldHEN23.bin";
     poc()
