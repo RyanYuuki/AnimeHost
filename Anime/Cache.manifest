@@ -1,6 +1,8 @@
 CACHE MANIFEST 
 
 CACHE: 
+../fonts/Regular.ttf
+../fonts/virgo.ttf
 app2usb.bin
 appdumper.bin
 Expulsion-V4.0-1.38.bin
