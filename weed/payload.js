@@ -96,64 +96,22 @@ function webrte900() {
 }
 
 // Game_Mods
-function BeefQueefMod100() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "BeefQueefMod100.bin"
-  poc()
-}
-function BeefQueefMod134() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "BeefQueefMod134.bin"
-  poc()
-}
 function BeefQueefMod138() {
   ShowMSG = "Please wait...Sending Payload!"
   loadmsg()
   PLfile = "BeefQueefMod138.bin"
   poc()
 }
-function GTAVAG127() {
+function WildModz138() {
   ShowMSG = "Please wait...Sending Payload!"
   loadmsg()
-  PLfile = "GTAVAG127.bin"
+  PLfile = "WildeModz-1.38.bin"
   poc()
 }
-function GTAVAG132() {
+function Expulsion138() {
   ShowMSG = "Please wait...Sending Payload!"
   loadmsg()
-  PLfile = "GTAVAG132.bin"
-  poc()
-}
-function GTAVAG133() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "GTAVAG133.bin"
-  poc()
-}
-function OystersMenuRDR2v138_v100() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "OystersMenuRDR2v138_v100.bin"
-  poc()
-}
-function OystersMenuRDR2v138_v113() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "OystersMenuRDR2v138_v113.bin"
-  poc()
-}
-function OystersMenuRDR2v138_v119() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "OystersMenuRDR2v138_v119.bin"
-  poc()
-}
-function OystersMenuRDR2v138_v124() {
-  ShowMSG = "Please wait...Sending Payload!"
-  loadmsg()
-  PLfile = "OystersMenuRDR2v138_v124.bin"
+  PLfile = "Expulsion-V4.0-1.38.bin"
   poc()
 }
 function OystersMenuRDR2v138_v129() {
@@ -162,6 +120,7 @@ function OystersMenuRDR2v138_v129() {
   PLfile = "OystersMenuRDR2v138_v129.bin"
   poc()
 }
+
 
 //Linux
 function LinuxLoader1gb() {
