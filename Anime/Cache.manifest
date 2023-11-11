@@ -29,7 +29,7 @@ LinuxLoader2gb.bin
 LinuxLoader3gb.bin
 LinuxLoader4gb.bin
 LinuxLoader5gb.bin
-lndexmain.html
+lndex.html
 moduledumper.bin
 OystersMenuRDR2v138_v129.bin
 payload.js
@@ -40,6 +40,7 @@ rop.js
 todex.bin
 webkit.js
 webrte900.bin
+meh.png
 
 NETWORK: 
 * 
