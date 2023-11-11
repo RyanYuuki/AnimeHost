@@ -12,8 +12,8 @@ body {
     src: url('../fonts/virgo.ttf') /* Replace with the path to your font file */
 }
 @font-face {
-    font-family: 'Smooth1'; /* Choose a name for your font */
-    src: url('../fonts/Heebo-Regular.ttf') /* Replace with the path to your font file */
+    font-family: 'Regular'; /* Choose a name for your font */
+    src: url('../fonts/Regular.ttf') /* Replace with the path to your font file */
 }   
     .notification,
 .notification2 {
@@ -76,21 +76,26 @@ body {
     text-shadow: 0px 0px 10px;
 }
 .btn {
-    background: transparent;
-    width: 160px;
-    padding: 10px;
-    color: #000000;
-    font-size: 16px;
-    font-family: sans-serif;
-    font-weight: bold;
-    border: solid 1px;
+  background: transparent;
     border-radius: 27px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    transition-duration: 0.4s;
     cursor: pointer;
-    transition-duration: 300ms;
-    margin-left: .5%;
-    margin-right: .5%;
-    margin-top: .5%;
-    margin-bottom: .5%;
+    font-family: 'Regular';
+    color: ghostwhite;
 }
 .btn:hover {
     box-shadow: 0px 0px 15px;
@@ -126,4 +131,17 @@ hr {
 }
 #sysinfo {
     font-size: 12px;
+}
+.glass-titlehead {
+    background: transparent;
+    border-radius: 27px;
+    color:white;
+    padding: .5em;
+    text-decoration: none;
+    height:40px;
+    display:inline-table;
+    font-family: system-ui;
+    width: 100%;
+    text-align: center;
+    font-family: 'Regular';
 }
